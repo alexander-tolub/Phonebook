@@ -1,8 +1,10 @@
 # Phonebook
 A simple phone book web applicaion written using:
-1. Gradle
-2. Spring 4
-3. Spring Security
-4. Spring MVC
-5. Spring Data JPA
-6. JSP
+<ol>
+    <li>Gradle</li>
+    <li>Spring 4</li>
+    <li>Spring Security</li>
+    <li>Spring MVC</li>    
+    <li>Spring Data JPA</li>
+    <li>JSP</li>
+</ol>
